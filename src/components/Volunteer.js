@@ -5,7 +5,7 @@ const Volunteer = props => {
     const getVolunteer = props.volunteerData.map(function(item, index) {
   		const startdate = moment(item.startDate).format('MMM, YYYY');
         let enddate = null;
-        if (props.volunteerData.endDate == '') {
+        if (props.volunteerData.endDate === '') {
             enddate = moment(props.volunteerData.endDate).format('MMM, YYYY');
         } else {
             enddate = 'Present';
@@ -21,7 +21,10 @@ const Volunteer = props => {
 
   	return (
   	  <section className="volunteer">
-        <h2 className="text-uppercase"><i className="fa fa-lg fa fa-users"></i> VOLUNTEER EXPERIENCE AND LEADERSHIP</h2>
+        <h2 className="text-uppercase">
+            <i className="fa fa-lg fa fa-users"></i>
+            VOLUNTEER EXPERIENCE AND LEADERSHIP
+        </h2>
         {getVolunteer}
       </section>
   	)

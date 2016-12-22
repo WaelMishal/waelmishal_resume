@@ -9,7 +9,7 @@ const Education = props => {
           <div key={index}>
             <h3>{item.studyType} {item.area}</h3>
   				  <h4>{item.institution}</h4>
-  				  <p>Studied: {startdate} - {enddate}</p>
+              <p className="workDates"><p>Studied: {startdate} - {enddate}</p></p>
   				</div>
         )
   	});
