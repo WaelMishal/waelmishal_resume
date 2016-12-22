@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Wael Mishal",
+    "label": "Software Engineer",
+    "picture": "./profilePhoto.jpg",
+    "email": "cs.waelmishal@gmail.com",
+    "phone": "+996(541)-777-842",
+    "website": "",
+    "summary": "Challenging position with a creative work environment to enhance expertise in web development, application design, and cloud database management systems.",
+    "country":"Saudi Arabia",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Taif",
+      "countryCode": "KSA",
+      "region": "Mecca"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "WaelMishal",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "WaelMishal",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "alarabiwael",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DATA MANAGEMENT LAB",
+      "position": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "Developing a system that analyzes tweets at the University of Minnesota.",
+      "highlights": []
+    },
+    {
+      "company": "Alrahmah School",
+      "position": "Teacher",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "Teaching computer courses in Alrahmah school.",
+      "highlights": []
+    }
+  ],
+  "project": [
+    {
+      "system": "MNgeo",
+      "role": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "MNgeo is a mobile app for viewing details about the geology of Minnesota from data curated by the MN Department of Natural Resources. It provides information about glacial geology, depth to bedrock, and bedrock ages and rock types.",
+      "highlights": []
+    },
+    {
+      "system": "Mouse behavior at varying levels of frustration",
+      "role": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "A system designed to study users’ frustrations in web applications by logging and analyzing users’ behaviors",
+      "highlights": []
+    },
+    {
+      "system": "Community Code sharing ",
+      "role": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "The basic aim of the website is to foster a community where people can share codes of different language and add description, tags, compilation details, building details, system configuration among other aspects for other to see.",
+      "highlights": []
+    },
+    {
+      "system": "Twitter Analysis system",
+      "role": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "A system implemented from scratch to efficiently scale querying, analyzing, and visualizing geotagged tweets. Supporting arbitrary queries on many archived tweets that go up to several years in the past.",
+      "highlights": []
+    },
+    {
+      "system": "Sehati ",
+      "role": "Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "Sehati is a shared cloud system that store all patients’ information along with prescriptions. This is packaged as a software called “Sehati: Health Care Cloud Management System”.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "Organization": "SIG-Spatial ACM",
+      "role": "Student Member",
+      "startDate": "2015-01-01",
+      "endDate": ""
+    },
+    {
+      "Organization": "Saudi Student Association",
+      "role": "Vice-President & Treasurer",
+      "startDate": "2016-08-01",
+      "endDate": ""
+    },
+    {
+      "Organization": "Computer Science Club",
+      "role": "Student Member",
+      "startDate": "2016-08-01",
+      "endDate": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University Of Minnesota",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2015-08-01",
+      "endDate": "2017-01-022",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Umm Al-qura University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2006-08-01",
+      "endDate": "2012-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Material css",
+        "Bootstrap",
+        "Javascript",
+        "jQuery",
+        "React",
+        "React Native",
+        "Express",
+        "Heroku",
+        "Node js",
+        "MySQL",
+        "Postgres",
+        "Oracle",
+        "Spatial Oracle",
+        "Mongo DB",
+        "RESTful APIs",
+        "JSON",
+        "Python",
+        "Java EE",
+        "JSP",
+        "C++",
+        "C#",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
