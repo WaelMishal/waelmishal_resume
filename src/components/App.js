@@ -6,7 +6,8 @@ import Work from './Work';
 import Project from './Project'
 import Skills from './Skills';
 import Education from './Education';
-import Volunteer from './Volunteer'
+import Volunteer from './Volunteer';
+import Certificate from './Certificate';
 import '../style/index.css';
 
 
@@ -18,6 +19,7 @@ const App = props => {
     const educationData = props.jsonObj.education;
     const projectData = props.jsonObj.project;
     const volunteerData = props.jsonObj.volunteer;
+    const certificateData = props.jsonObj.certificate;
 
     return (
         <div className="container">
@@ -35,6 +37,7 @@ const App = props => {
                         <Project projectData={projectData} />
                         <Volunteer volunteerData={volunteerData} />
                         <Skills skillsData={skillsData} />
+                        <Certificate certificateData={certificateData} />
                     </div>
                 </main>
             </div>

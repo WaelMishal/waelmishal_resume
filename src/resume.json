@@ -126,7 +126,7 @@
       "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2015-08-01",
-      "endDate": "2017-01-022",
+      "endDate": "2016-12-30",
       "gpa": "",
       "courses": []
     },
@@ -186,5 +186,26 @@
       "keywords": []
     }
   ],
-  "references": []
+  "references": [],
+
+  "certificate": [
+    {
+      "CertificationName": "Getting Started with GIS",
+      "CertificationAuthority": "Esri",
+      "picture": "./certificate/Getting Started with GIS.png",
+      " IssuedIn": "2016-09-08"
+    },
+     {
+      "CertificationName": "Getting Started with the Geodatabase",
+      "CertificationAuthority": "Esri",
+      "picture": ".//certificate/Getting Started with the Geodatabase.png",
+      " IssuedIn": "2016-09-11"
+    },
+     {
+      "CertificationName": "Referencing Data to Real-World Locations Using ArcGIS",
+      "CertificationAuthority": "Esri",
+      "picture": "./certificate/Referencing Data to Real-World Locations Using ArcGIS.png",
+      " IssuedIn": "2016-09-10"
+    }
+  ]
 }

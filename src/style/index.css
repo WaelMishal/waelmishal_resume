@@ -6,11 +6,11 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
-    display: block
+    display: block;
 }
 
 audio, canvas, progress, video {
@@ -1317,7 +1317,7 @@ html {
 
 body {
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 17px;
     line-height: 1.42857;
     color: #333;
     background-color: #fff
@@ -2491,7 +2491,7 @@ pre code {
 
 @media (min-width: 1200px) {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
-        float: left
+        float: left;
     }
 
     .col-lg-1 {
@@ -3619,7 +3619,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:focus, a.list-g
 
 @media (min-width: 992px) and (max-width: 1199px) {
     .hidden-md {
-        display: none !important
+        display: none !important;
     }
 }
 
@@ -3710,11 +3710,11 @@ aside .inner{
     background: #fff;
     padding: 20px;
     position: fixed;
-    width:300px;
+    width:280px;
     height: 650px;
 
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-x: auto;
+    overflow-y: auto;
 }
 
 h1 {
@@ -3792,5 +3792,8 @@ a {
 .workDates {
     color: #777
 }
-
+.certificate { 
+    max-width: 100%; 
+    height: auto; 
+}
 /*# sourceMappingURL=main.4086ffa5.css.map*/
