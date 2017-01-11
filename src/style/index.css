@@ -3709,12 +3709,14 @@ aside .inner, main .inner {
 aside .inner{
     background: #fff;
     padding: 20px;
-    position: fixed;
-    width:280px;
-    height: 650px;
-
+    position: relative;
+   /* 
+   position: fixed;
+   width:280px;
+    height: 650px;*/
     overflow-x: auto;
     overflow-y: auto;
+
 }
 
 h1 {
