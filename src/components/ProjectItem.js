@@ -20,10 +20,11 @@ const ProjectItem = props => {
 
     return (
         <div className="projectItem">
-            <h3>{props.prjectItemData.role}, <span>{props.prjectItemData.system}</span></h3>
+            <h3>{props.prjectItemData.role}, <span><a href={props.prjectItemData.website}>{props.prjectItemData.system}</a></span></h3>
             <p className="workDates">{getWorkDates()}</p>
-            <p>{props.prjectItemData.summary}</p>
+            <p>{props.prjectItemData.summary} <a href={props.prjectItemData.demo}>Demo</a></p>
             <ul>{getHighlights}</ul>
+
         </div>
     )
 };

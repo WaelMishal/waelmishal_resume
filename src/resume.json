@@ -2,7 +2,7 @@
   "basics": {
     "name": "Wael Mishal",
     "label": "Software Engineer",
-    "picture": "./profilePhoto.jpg",
+    "picture": "./resumePic.jpg",
     "email": "cs.waelmishal@gmail.com",
     "phone": "+966(541)-777-842",
     "website": "",
@@ -37,7 +37,7 @@
     {
       "company": "DATA MANAGEMENT LAB",
       "position": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "Developing a system that analyzes tweets at the University of Minnesota.",
@@ -46,7 +46,7 @@
     {
       "company": "Alrahmah School",
       "position": "Teacher",
-      "website": "http://nrma.com.au",
+      "website": "",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "Teaching computer courses in Alrahmah school.",
@@ -57,7 +57,8 @@
     {
       "system": "MNgeo",
       "role": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "",
+      "demo":"",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "MNgeo is a mobile app for viewing details about the geology of Minnesota from data curated by the MN Department of Natural Resources. It provides information about glacial geology, depth to bedrock, and bedrock ages and rock types.",
@@ -66,7 +67,8 @@
     {
       "system": "Mouse behavior at varying levels of frustration",
       "role": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "",
+      "demo":"",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "A system designed to study users’ frustrations in web applications by logging and analyzing users’ behaviors",
@@ -75,7 +77,8 @@
     {
       "system": "Community Code sharing ",
       "role": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "https://mysterious-scrubland-95017.herokuapp.com/",
+      "demo":"https://www.youtube.com/watch?v=cfsp_ozjh18",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "The basic aim of the website is to foster a community where people can share codes of different language and add description, tags, compilation details, building details, system configuration among other aspects for other to see.",
@@ -84,7 +87,8 @@
     {
       "system": "Twitter Analysis system",
       "role": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "http://www-users.cs.umn.edu/~alara003/ad-hoc-Map/",
+      "demo":"https://www.youtube.com/watch?v=wmslN2-rRkc&t=28s",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "A system implemented from scratch to efficiently scale querying, analyzing, and visualizing geotagged tweets. Supporting arbitrary queries on many archived tweets that go up to several years in the past.",
@@ -93,7 +97,8 @@
     {
       "system": "Sehati ",
       "role": "Developer",
-      "website": "http://nrma.com.au",
+      "website": "",
+      "demo":"",
       "startDate": "2016-08-01",
       "endDate": "",
       "summary": "Sehati is a shared cloud system that store all patients’ information along with prescriptions. This is packaged as a software called “Sehati: Health Care Cloud Management System”.",

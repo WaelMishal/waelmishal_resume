@@ -22,7 +22,7 @@ const Profile = props => {
                     <li><a className="fa fa-linkedin-square fa-2x" href={'https://www.linkedin.com/in/'+profileObj.profiles[2].username}></a></li>
                   </ul>
                   <div className="divider"></div>
-                    <a className="fa fa-address-card fa-2x" href="WaelResume.pdf" download></a> Download my Resume
+                    <a className="fa fa-address-card fa-2x" href="Resume.pdf" download></a> Download my Resume
             </div>
 };
 
