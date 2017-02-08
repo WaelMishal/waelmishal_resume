@@ -1355,7 +1355,6 @@ img {
 .img-responsive {
     display: block;
     max-width: 100%;
-    height: auto
 }
 
 .img-rounded {
@@ -1376,7 +1375,9 @@ img {
 }
 
 .img-circle {
-    border-radius: 150%
+    border-radius: 10%;
+    height: 1000%;
+    width: 100%;
 }
 
 hr {
@@ -3689,7 +3690,7 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:focus, a.list-g
 
 body {
     background: #f0f0f0;
-    margin: 50px;
+    margin: 40px;
 }
 
 aside, main {
