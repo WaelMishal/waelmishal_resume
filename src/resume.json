@@ -226,6 +226,48 @@
       "CertificationAuthority": "Esri",
       "picture": "./certificate/Referencing Data to Real-World Locations Using ArcGIS.png",
       " IssuedIn": "2016-09-10"
+    },
+    {
+      "CertificationName": "SACM Certificate of Appreciation",
+      "CertificationAuthority": "SACM",
+      "picture": ".//certificate/umn/SACM.png",
+      " IssuedIn": "2016-12-11"
+    },
+    {
+      "CertificationName": "Saudi Student Association",
+      "CertificationAuthority": "Saudi Student House",
+      "picture": ".//certificate/umn/SSA.png",
+      " IssuedIn": "2016-12-11"
+    },
+    {
+      "CertificationName": "Certificate of Attendance",
+      "CertificationAuthority": "Minnesota English language Program",
+      "picture": ".//certificate/umn/MELP3C.png",
+      " IssuedIn": "2014-12-12"
+    },
+     {
+      "CertificationName": "Certificate of Attendance",
+      "CertificationAuthority": "Minnesota English language Program",
+      "picture": ".//certificate/umn/MELPC3.png",
+      " IssuedIn": "2014-08-8"
+    },
+    {
+      "CertificationName": "Certificate of Attendance",
+      "CertificationAuthority": "Minnesota English language Program",
+      "picture": ".//certificate/umn/MELP2A.png",
+      " IssuedIn": "2014-05-13"
+    },
+     {
+      "CertificationName": "Certificate of Attendance",
+      "CertificationAuthority": "Minnesota English language Program",
+      "picture": ".//certificate/umn/MELP1A.png",
+      " IssuedIn": "2013-12-13"
+    },
+    {
+      "CertificationName": "Certificate of Attendance",
+      "CertificationAuthority": "Minnesota English language Program",
+      "picture": ".//certificate/umn/MELPA1.png",
+      " IssuedIn": "2013-08-02"
     }
   ]
 }
