@@ -3,14 +3,14 @@ import moment from 'moment';
 
 const Certificate = props => {
     const getCertificateData = props.certificateData.map(function(item, index) {
-      const startdate = moment(item.startDate).format('MMM, YYYY');
+      
       
       return (
           <div key={index}>
-            <h3>"{item.CertificationName}" By {item.CertificationAuthority}</h3>
+            <h3>{item.CertificationName} By {item.CertificationAuthority} </h3>
             <br></br>
             <img role="presentation" className="certificate center-block "src={item.picture} width="600" height="300"/>
-            
+             <hr></hr>
           </div>
         )
     });

@@ -204,6 +204,12 @@
 
   "certificate": [
     {
+      "CertificationName": "Master of Science in Computer Science",
+      "CertificationAuthority": "University of Minnesota",
+      "picture": "./certificate/masterCertificate.png",
+      " IssuedIn": "2016-012-30"
+    },
+    {
       "CertificationName": "Getting Started with GIS",
       "CertificationAuthority": "Esri",
       "picture": "./certificate/Getting Started with GIS.png",
